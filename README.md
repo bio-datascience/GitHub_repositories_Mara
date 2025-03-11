@@ -179,7 +179,8 @@ https://github.com/bio-datascience/prototype_clustering
 
 🔹 Collection of ecological times series data
 
-📊 **Data:** 
+📊 **Data:** Karwowska et al., Silverman’s Artificial Gut, Bucci’s C. Diff., Four BioTIME Studies, Synthetic data: miaSim, Tri-Trophic Lotka-Volterra
+ODE System, Van der Pol Oscillator 
 
 https://github.com/bio-datascience/MScThesis_Maria
 
