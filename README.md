@@ -171,6 +171,14 @@ https://github.com/bio-datascience/prototype_clustering
 
 ---
 
+## Skwara-etal-Interaction-modeling
+
+🔹 hierNet and all-pairs lasso on all ecological datasets collected in Skwara et al.
+
+https://github.com/bio-datascience/Skwara-etal-Interaction-modeling
+
+---
+
 ## MScThesis_Maria
 
 🔹 Code by Maria Pröbstl on *Estimation of higher-order species interactions from ecological time series*.
